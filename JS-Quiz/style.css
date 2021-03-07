@@ -1,0 +1,16 @@
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 35px;
+    text-shadow: purple;
+}
+
+.quiz {
+    border: 3px solid purple;
+    padding: 10px 40px 40px 40px;
+    background-color: lightpink;
+    width: 50%;
+}
+
+.hide {
+    display: none;
+}
